@@ -1,0 +1,16 @@
+# Node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# WebStorm
+.idea/
+
+
+# General
+log/
+*.log
+
+# node_modules
+node_modules/
